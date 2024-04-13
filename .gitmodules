@@ -1,0 +1,3 @@
+[submodule "r3_docker"]
+	path = r3_docker
+	url = https://github.com/r3-team/r3_docker.git
